@@ -26,6 +26,7 @@ I enjoy building and enhancing web systems, focusing on creating engaging and re
 
 ### 📣 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/denver-salazar-56923534b/)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=flat-square&logo=facebook)](https://www.facebook.com/dnvrslzr)
 [![GitHub Followers](https://img.shields.io/github/followers/DenverSalazar?label=Followers&style=social)](https://github.com/DenverSalazar)
 [![GitHub Stars](https://img.shields.io/github/stars/DenverSalazar?label=Total%20Stars&style=social)](https://github.com/DenverSalazar)
 
