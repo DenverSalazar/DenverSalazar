@@ -9,3 +9,24 @@ I enjoy building and enhancing web systems, focusing on creating engaging and re
 - 💬 Ask me about HTML, CSS, Bootstrap, or anything web-related!
 - 📫 How to reach me: denversalazar20@gmail.com
 - ⚡ Fun fact: I love watching K-Drama and I love pets specially Dogs.
+
+
+### 🚀 Technologies & Tools:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js)
+
+
+### 🔥 My GitHub Stats:
+![DenverSalazar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
+### 📣 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/YourProfile](https://www.linkedin.com/in/denver-salazar-56923534b/))
+[![GitHub Followers](https://img.shields.io/github/followers/YourUsername?label=Followers&style=social)](https://github.com/DenverSalazar)
+[![GitHub Stars](https://img.shields.io/github/stars/YourUsername?label=Total%20Stars&style=social)](https://github.com/DenverSalazar)
+
+Feel free to explore my repositories and check out my work. Let's build something amazing together!
