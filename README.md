@@ -18,7 +18,9 @@ I enjoy building and enhancing web systems, focusing on creating engaging and re
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js)
-
+![Inertia.js](https://img.shields.io/badge/-Inertia.js-512BD4?style=flat-square&logo=inertia&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### 🔥 My GitHub Stats:
 ![DenverSalazar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DenverSalazar&show_icons=true&theme=radical)
