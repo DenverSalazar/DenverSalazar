@@ -21,8 +21,8 @@ I enjoy building and enhancing web systems, focusing on creating engaging and re
 
 
 ### 🔥 My GitHub Stats:
-![DenverSalazar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![DenverSalazar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DenverSalazar&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenverSalazar&layout=compact&theme=radical)
 
 ### 📣 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/YourProfile](https://www.linkedin.com/in/denver-salazar-56923534b/))
