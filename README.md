@@ -29,12 +29,6 @@ I enjoy building and enhancing web systems, focusing on creating engaging and re
 ### 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=DenverSalazar&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-### 📈 Activity Graph:
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DenverSalazar&theme=react-dark&area=true&hide_border=true)
-
-
 ### 📣 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/denver-salazar-56923534b/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/dnvr_s216/)
