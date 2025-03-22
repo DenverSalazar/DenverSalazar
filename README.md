@@ -27,7 +27,7 @@ I enjoy building and enhancing web systems, focusing on creating engaging and re
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenverSalazar&layout=compact&theme=radical)
 
 ### 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=  DenverSalazar&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DenverSalazar&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
