@@ -32,7 +32,7 @@ I enjoy building and enhancing web systems, focusing on creating engaging and re
 ---
 
 ### 📈 Activity Graph:
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DenverSalazar&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DenverSalazar&theme=react-dark&area=true&hide_border=true)
 
 
 ### 📣 Let's Connect:
